@@ -10,7 +10,9 @@
       "Bash(claude --version)",
       "Bash(claude config *)",
       "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\('Credentials present:', bool\\(d\\)\\)\")",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(gh auth *)",
+      "Bash(ssh -T git@github.com)"
     ]
   }
 }

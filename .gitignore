@@ -1,0 +1,22 @@
+# Credentials & secrets
+.claude/.credentials.json
+.claude.json
+
+# Session & runtime data
+.claude/history.jsonl
+.claude/sessions/
+.claude/session-env/
+.claude/shell-snapshots/
+.claude/paste-cache/
+.claude/file-history/
+.claude/backups/
+.claude/cache/
+.claude/downloads/
+.claude/projects/
+
+# Ephemeral state
+.claude/.last-cleanup
+.claude/.last-update-result.json
+.claude/mcp-needs-auth-cache.json
+.claude/policy-limits.json
+.claude/remote-settings.json
